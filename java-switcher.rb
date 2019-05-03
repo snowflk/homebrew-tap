@@ -5,7 +5,7 @@ class JavaSwitcher < Formula
   desc "A small script that helps you switch Java version easier"
   homepage "https://github.com/Andycillin/java-switcher"
   url "https://github.com/Andycillin/java-switcher/releases/download/v1.0/java-switcher.zip"
-  sha256 "d0080bbd0b2fd45851b0892d633a5b6b2f17689b160a1d01f63f49e520e835f3"
+  sha256 "61ec224bf9b606993d71cdec3f1de57dc6ecd05ccf02b4d576518f9376cdcfe2"
   # depends_on "cmake" => :build
 
   def install
